@@ -1,0 +1,13 @@
+{
+  "name": "@perf-profiler/netlify",
+  "version": "0.2.0",
+  "main": "dist/index.js",
+  "bin": {
+    "perf-profiler-netlify": "dist/command.js"
+  },
+  "dependencies": {
+    "@perf-profiler/logger": "^0.2.0",
+    "axios": "^0.27.2",
+    "commander": "^9.4.0"
+  }
+}
