@@ -12,7 +12,8 @@
   },
   "license": "MIT",
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "examples/*"
   ],
   "bugs": {
     "url": "https://github.com/bamlab/react-native-performance/issues"
